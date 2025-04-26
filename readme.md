@@ -24,15 +24,7 @@ Built as a demo project to showcase skills in secure peer-to-peer networking, en
 
 ---
 
-## 📸 Screenshots
-<!-- You can insert screenshots here after you take them. Example: -->
-| Connect View | Chat View |
-|:------------:|:---------:|
-| ![Connect View](Screenshots/connect.png) | ![Chat View](Screenshots/chat.png) |
 
-*(Optional: Add your own screenshots after you test it.)*
-
----
 
 ## ⚙️ Installation
 
