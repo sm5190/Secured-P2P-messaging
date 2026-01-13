@@ -30,4 +30,4 @@ Built as a demo project to showcase skills in secure peer-to-peer networking, en
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/secure-p2p-messaging.git
+   git clone https://github.com/sm5190/secure-p2p-messaging.git
